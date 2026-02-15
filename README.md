@@ -35,3 +35,11 @@ O código foi estruturado seguindo o padrão de responsabilidade única, dividid
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/SEU_USUARIO/gerenciador-de-alunos.git](https://github.com/SEU_USUARIO/gerenciador-de-alunos.git)
+Entre na pasta do projeto:
+
+Bash
+cd gerenciador-de-alunos
+Execute a aplicação:
+
+Bash
+dotnet run
